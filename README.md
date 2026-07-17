@@ -22,20 +22,16 @@ The recurring question underneath all of it: **a multi-terabyte database should 
 disk and stay fast.** Most of my work is finding the layer where that quietly stops being true — a
 page size, a freelist scan, a `[]any` cast — and fixing it there.
 
-## 📈 Historical activity
 
-Every PR I authored or reviewed across `erigontech` + `ledgerwatch`, 2019 → today:
+<div align="center">
 
-```
-2019  ▎                                              20
-2020  ███████                                       412
-2021  █████████████████▏                          1,008
-2022  ██████████████████████████▋                 1,563
-2023  ███████████████████▍                        1,133
-2024  ███████████████████████████████▋            1,853
-2025  ██████████████████████████████████████████  2,456
-2026  ████████████████████████████▏               1,648  (to Jul)
-```
+<a href="https://commit-history.com/AskAlexSharov">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/AskAlexSharov?theme=dark" />
+    <img alt="AskAlexSharov's commit history" src="https://commit-history.com/embed/AskAlexSharov" />
+  </picture>
+</a>
+
 
 |            |                                                |
 | ---------: | :--------------------------------------------- |
@@ -81,15 +77,6 @@ Seven years, three storage engines, one database that kept outgrowing its disk:
 2025  filters       fuse filters baked into index files, page-level compression
 2026  off-heap      Elias-Fano off the heap, arena allocation, array-based EVM stack
 ```
-
-<div align="center">
-
-<a href="https://commit-history.com/AskAlexSharov">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/AskAlexSharov?theme=dark" />
-    <img alt="AskAlexSharov's commit history" src="https://commit-history.com/embed/AskAlexSharov" />
-  </picture>
-</a>
 
 <br />
 <br />
