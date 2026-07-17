@@ -84,8 +84,6 @@ Changes that shipped with before/after numbers:
 
 <br />
 
-**Ask me about** storage engines · B-trees · perfect hashing · compression · Go performance
-
 [X](https://twitter.com/AskAlexSharov) · [AskAlexSharov@gmail.com](mailto:AskAlexSharov@gmail.com)
 
 </div>
