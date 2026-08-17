@@ -1,6 +1,6 @@
 <div align="center">
 
-[X](https://twitter.com/AskAlexSharov) · [AskAlexSharov@gmail.com](mailto:AskAlexSharov@gmail.com)
+[AskAlexSharov@gmail.com](mailto:AskAlexSharov@gmail.com) · [x.com/AskAlexSharov](https://x.com/AskAlexSharov)
 
 </div>
 
@@ -31,16 +31,10 @@ PRs: [https://github.com/erigontech/erigon/pulls/AskAlexSharov](https://github.c
 
 </div>
 
-|            |                                               |
-|-----------:|:----------------------------------------------|
-| **10,093** | unique PRs                                    |
-|  **5,651** | authored — **5,153 merged** (91%)             |
-|  **4,555** | reviewed — mostly my team's work and my ideas |
-
 <div align="center">
 
 <br />
 
-[X](https://twitter.com/AskAlexSharov) · [AskAlexSharov@gmail.com](mailto:AskAlexSharov@gmail.com)
+[AskAlexSharov@gmail.com](mailto:AskAlexSharov@gmail.com) · [x.com/AskAlexSharov](https://x.com/AskAlexSharov)
 
 </div>
