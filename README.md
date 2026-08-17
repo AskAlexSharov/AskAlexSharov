@@ -11,14 +11,14 @@ PRs: [https://github.com/erigontech/erigon/pulls/AskAlexSharov](https://github.c
 
 # 🧠 Where I go deep
 
-| Area                                        | Representative work                                                                                                                                                                  |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Memory & the Go GC**                      | [Off-heap Elias-Fano build for 3B keys](https://github.com/erigontech/erigon/pull/20640) · [arena-allocated patricia `MatchFinder`](https://github.com/erigontech/erigon/pull/20136) |
-| **Sort data >> RAM**                        | [zero-copy on-disk heap-sort](https://github.com/erigontech/erigon/pull/19780)                                                                                                       |
-| **Storage engines** — MDBX / LMDB internals | [skip freelist search for large page sequences](https://github.com/erigontech/erigon/pull/1213)                                                                                      |
-| **Indexing & perfect hashing**              | [fuse filters](https://github.com/erigontech/erigon/pull/15960) · [roaring bitmap for indices union/intersection](https://github.com/erigontech/erigon/pull/1124)                    |
-| **Virtual machines**                        | [array-based EVM interpreter stack](https://github.com/erigontech/erigon/pull/20183)                                                                                                 |
-| **Cryptography**                            | [Asm of xxhash affected Golang GC](https://github.com/klauspost/compress/pull/1196)                                                                                                  |
+| Area                           | Representative work                                                                             |
+|--------------------------------|-------------------------------------------------------------------------------------------------|
+| **Memory & the Go GC**         | [Off-heap index-build for 3B keys](https://github.com/erigontech/erigon/pull/20640)             |
+| **FileSystems and Linux**      | [files-merge by dedicated MMAP](https://github.com/erigontech/erigon/pull/19397)                |
+| **Cryptography**               | [Asm of xxhash affected Golang GC](https://github.com/klauspost/compress/pull/1196)             |
+| **Sort data >> RAM**           | [zero-copy on-disk heap-sort](https://github.com/erigontech/erigon/pull/19780)                  |
+| **Indexing & perfect hashing** | [roaring-bitmap for indices union/intersection](https://github.com/erigontech/erigon/pull/1124) |
+| **Virtual machines**           | [array-based EVM interpreter stack](https://github.com/erigontech/erigon/pull/20183)            |
 
 <div align="center">
 
