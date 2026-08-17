@@ -6,7 +6,7 @@
 
 ---
 
-Currently work on storage layer of Erigon (implemntation of Ethereumn) ~4k
+Last 6 years i did much open-source. For example on storage layer of Erigon (implemntation of Ethereumn). ~4k
 PRs: [https://github.com/erigontech/erigon/pulls/AskAlexSharov](https://github.com/erigontech/erigon/pulls/AskAlexSharov)
 
 # 🧠 Where I go deep
